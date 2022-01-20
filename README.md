@@ -15,6 +15,6 @@ https://www.icloud.com/shortcuts/52c549d340ab4158bbfba8d57a1543a2
 
 ## 點用﹖
 **TLDR:** 好 straight forward 下，㩒下就識。
-完全唔知 Shortcut 係咩嚟/點用請睇下[呢度]()先
+完全唔知 Shortcut 係咩嚟/點用請睇下[呢度](https://github.com/SuperDumbTM/EmptyR-ios-shortcut/blob/main/README.md#shortcut-%E6%BA%96%E5%82%99)先
 
 ## Shortcut 準備
