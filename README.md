@@ -49,7 +49,7 @@ https://www.icloud.com/shortcuts/52c549d340ab4158bbfba8d57a1543a2
 
 ---
 ### - 多車站 EmptyR Report (Multi-Stat)
-運作同上。出發車站、路線需要手動輸入，目的地車站自動偵測，乘車時間自動計算，只報喜不報悲。<br>
+運作同上，但只報喜不報悲。出發車站、路線需要手動輸入，目的地車站自動偵測，乘車時間自動計算。<br>
 ![multi station](https://user-images.githubusercontent.com/71750702/150391418-305e7601-94ac-49ae-b1b4-89e529db0b39.png)
 ![multi route](https://user-images.githubusercontent.com/71750702/150391413-7cc02856-9b22-42a1-a01e-aad264d17ac1.png)
 
@@ -72,4 +72,12 @@ https://www.icloud.com/shortcuts/52c549d340ab4158bbfba8d57a1543a2
 
 
 ## Shortcut 準備
+
+### 準備
+打開設定，碌落去揾「Shortcut/捷徑」<br>
+![setting shortcut](https://user-images.githubusercontent.com/71750702/150395397-113a9449-65ac-46d3-aa99-b584cb7d8c5c.JPG)<br>
+開「允許不受信任的捷徑」、「精確位置」<br>
+![shortcut location](https://user-images.githubusercontent.com/71750702/150395543-f6beb365-c811-453a-a528-fac301028240.JPG)
+
+### 加入捷徑
 
