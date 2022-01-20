@@ -57,7 +57,7 @@ https://www.icloud.com/shortcuts/52c549d340ab4158bbfba8d57a1543a2
 ![time](https://user-images.githubusercontent.com/71750702/150392234-d9235c89-fb78-4b2c-a5dd-034dbc59f23c.png)
 ![time tg](https://user-images.githubusercontent.com/71750702/150392237-10e98454-c3f9-4ec1-b864-291ba191d0d5.png)
 
-- \*\* **如所選路線、上車車站及落車車站有衝突（所選路線不經上車/落車車站）**，行車時間即為0，姐係報料嘅上車時間=落車時間=當刻時間。**所以有轉車請以最後乘搭路線作報料。**
+- :warning: **如所選路線、上車車站及落車車站有衝突（所選路線不經上車/落車車站）**，行車時間即為0，姐係報料嘅上車時間=落車時間=當刻時間。**所以有轉車建議以最後乘搭路線作報料。**
 
 ---
 
