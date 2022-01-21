@@ -102,7 +102,7 @@ https://www.icloud.com/shortcuts/52c549d340ab4158bbfba8d57a1543a2
 ### 點用 shortcut
 
 㩒返相應嘅widget/ app icon就用到。<br>
-Shortcut讀取你嘅位置要5-10秒左右，所以會有一段時間冇任何動作。<br>
+Shortcut讀取你嘅位置要5-10秒左右，所以會有一段時間冇任何反應。<br>
 如果偵測位置過程熄咗mon都無問題的，只要㩒返個通知就可以繼續。<br>
 ![noti](https://user-images.githubusercontent.com/71750702/150483543-13134ba7-0dea-481e-b7fe-53f6b57ea10b.JPG)
 
