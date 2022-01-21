@@ -1,4 +1,4 @@
-# EmptyR-ios-shortcut
+# NWmptyR-ios-shortcut
 
 NWemptyR telegram 自20年尾開始全自動化水（好似係），透過輸入特定格式文字作報料。<br>
 而因為我嘅懶惰，於是用 Apple 嘅 [Shortcut](https://support.apple.com/zh-hk/guide/shortcuts/welcome/ios) 寫咗兩個 shortcut 嚟自動化報料嘅 process。<br>
