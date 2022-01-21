@@ -77,7 +77,7 @@ https://www.icloud.com/shortcuts/52c549d340ab4158bbfba8d57a1543a2
 ### 準備
 打開設定，碌落去揾 `Shortcut/捷徑`<br>
 ![setting shortcut](https://user-images.githubusercontent.com/71750702/150395397-113a9449-65ac-46d3-aa99-b584cb7d8c5c.JPG)<br>
-開 ~~ `允許不受信任的捷徑`~~、`精確位置`<br>
+開 ~~`允許不受信任的捷徑`~~、`精確位置`<br>
 [update]`允許不受信任的捷徑`要係新增捷徑後先會開到（姐係download咗個shortcut之後），到時電話應該會要提示叫你去開<br>
 ![shortcut location](https://user-images.githubusercontent.com/71750702/150395543-f6beb365-c811-453a-a528-fac301028240.JPG)
 
