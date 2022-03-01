@@ -7,13 +7,14 @@ NWemptyR telegram 自20年開始全自動化（好似係），透過輸入特定
 
 ## 下載
 單一車站 EmptyR Report：
-https://www.icloud.com/shortcuts/6832fbf9679446c7a3c8dd1041db37f8
+https://www.icloud.com/shortcuts/b696b046887f40898a05477c83d2645e
 
 多車站 EmptyR Report (Multi-Stat)：
-https://www.icloud.com/shortcuts/52c549d340ab4158bbfba8d57a1543a2
+https://www.icloud.com/shortcuts/25f2d58e01554b07ab2aec6739b8981d
 
-(Last update: 2022-1-8)
-- update prompt messages
+(Last update: 2022-3-1)
+- code optimization
+- variables renaming
 
 ## 點用﹖
 **TLDR:** 好 straight forward 下，㩒下就識。
