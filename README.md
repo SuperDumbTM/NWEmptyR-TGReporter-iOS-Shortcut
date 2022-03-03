@@ -13,11 +13,11 @@ https://www.icloud.com/shortcuts/b696b046887f40898a05477c83d2645e
 https://www.icloud.com/shortcuts/25f2d58e01554b07ab2aec6739b8981d
 
 ### Change Log
-2022-3-1
+2022-3-1 v1.0.1
 - code optimization
 - variables renaming
 
-2022-1-8
+2022-1-8 v1.0.0
 - update prompt messages
 
 ## 點用﹖
