@@ -12,9 +12,13 @@ https://www.icloud.com/shortcuts/b696b046887f40898a05477c83d2645e
 多車站 EmptyR Report (Multi-Stat)：
 https://www.icloud.com/shortcuts/25f2d58e01554b07ab2aec6739b8981d
 
-(Last update: 2022-3-1)
+### Change Log
+2022-3-1
 - code optimization
 - variables renaming
+
+2022-1-8
+- update prompt messages
 
 ## 點用﹖
 **TLDR:** 好 straight forward 下，㩒下就識。
